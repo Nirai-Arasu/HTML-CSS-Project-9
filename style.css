@@ -172,6 +172,7 @@ header > div:last-child {
 
 .faq-image > img {
   height: 100%;
+  width: 100%;
 }
 .download-section {
   display: flex;
